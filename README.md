@@ -15,7 +15,10 @@ This project uses the Model-View-Controller (MVC) paradigm to create a blog-styl
 
 
 ## Installation
+https://serene-shelf-85817.herokuapp.com/
 
+
+https://github.com/will198735/MVC-Tech-Blog
 
  
 
@@ -23,7 +26,7 @@ This project uses the Model-View-Controller (MVC) paradigm to create a blog-styl
 
 
  ## Licence
- 
+
 
 
 
